@@ -1,16 +1,54 @@
-## Hi there 👋
+![Header Banner](https://i.imgur.com/8MupZHY.gif)  
+<!-- Replace above link with your own anime/gamer/coding GIF/banner -->
 
-<!--
-**Yuuta-nx/Yuuta-nx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# 👋 Hi, I'm Yuuta  
 
-Here are some ideas to get you started:
+**`Student | Developer | Musician | Gamer | Otaku`**  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+💻 Coding with dreams of adding **AI essence everywhere**.  
+🎸 Jamming on my **guitar** when I’m not coding.  
+🎮 Gaming + Anime = my ultimate creativity boost.  
+🌱 Still learning, but building step by step toward my glow-up in tech.  
+
+---
+
+## 🚀 Currently Learning  
+- 🐍 Python  
+- 🌐 HTML  
+- 🗄️ MySQL  
+- 🎨 Blender (3D → 2D animation)  
+
+---
+
+## 🛠️ Languages & Tools  
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)  
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)  
+![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)  
+![Blender](https://img.shields.io/badge/Blender-F5792A?style=for-the-badge&logo=blender&logoColor=white)  
+
+---
+
+## 📊 GitHub Stats  
+![Yuuta's GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight)  
+
+---
+
+## 🎵 Music & Passion  
+🎸 *Guitarist • Music Lover • Creator*  
+✨ Where **chords meet code**.  
+📷 Instagram: [**@yuuta_nx_69**](https://instagram.com/yuuta_nx_69)  
+
+![Guitar GIF](https://media.giphy.com/media/IeRdg7gLkfK1ly2PqQ/giphy.gif)  
+
+---
+
+## 🌌 Fun Facts  
+- 💡 Wanna shine in **both music and computer science**.  
+- 🎮 Gamer mode: always ON.  
+- 📚 Learning every day, growing every day.  
+
+---
+
+![Footer Banner](https://i.imgur.com/YC9v1Nq.gif)  
+<!-- Replace above with any anime/gamer footer GIF -->
