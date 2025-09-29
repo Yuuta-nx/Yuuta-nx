@@ -39,7 +39,7 @@
 ✨ Where **chords meet code**.  
 📷 Instagram: [**@yuuta_nx_69**](https://instagram.com/yuuta_nx_69)  
 
-![Guitar GIF](https://media.giphy.com/media/IeRdg7gLkfK1ly2PqQ/giphy.gif)  
+![Guitar GIF](https://share.google/images/odHhplHEpaoDZSPIz)  
 
 ---
 
