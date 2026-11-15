@@ -9,6 +9,12 @@
 
 **CSE (AI & ML) Student · Developer · Musician · Gamer · Otaku**
 
+
+<img width="1102" height="790" alt="Yuuta1" src="https://github.com/user-attachments/assets/eef9999c-e406-4ca4-bc4f-f4b808a3df35" />
+
+
+
+
 <br/>
 
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Yuuta-nx)
@@ -122,7 +128,7 @@ Music keeps the creativity alive when the code gets complicated.
 
 *The dream never ends.*
 
-<img src="https://i.imgur.com/YC9v1Nq.gif" width="100%" />
+
 
 **Thanks for visiting my profile!**
 
