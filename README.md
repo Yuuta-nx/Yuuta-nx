@@ -1,54 +1,132 @@
-![Header Banner](https://i.imgur.com/8MupZHY.gif)  
-<!-- Replace above link with your own anime/gamer/coding GIF/banner -->
+<!-- ═══════════════════════ HEADER ═══════════════════════ -->
 
-# 👋 Hi, I'm Yuuta  
+<div align="center">
 
-**`Student | Developer | Musician | Gamer | Otaku`**  
+<img src="https://i.imgur.com/8MupZHY.gif" width="100%" />
 
-💻 Coding with dreams of adding **AI essence everywhere**.  
-🎸 Jamming on my **guitar** when I’m not coding.  
-🎮 Gaming + Anime = my ultimate creativity boost.  
-🌱 Still learning, but building step by step toward my glow-up in tech.  
+# 𝓨𝓾𝓾𝓽𝓪 𝓝𝔁
 
----
+### `// Turning imagination into reality, one line at a time.`
 
-## 🚀 Currently Learning  
-- 🐍 Python  
-- 🌐 HTML  
-- 🗄️ MySQL  
-- 🎨 Blender (3D → 2D animation)  
+**CSE (AI & ML) Student · Developer · Musician · Gamer · Otaku**
 
----
+<br/>
 
-## 🛠️ Languages & Tools  
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)  
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)  
-![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)  
-![Blender](https://img.shields.io/badge/Blender-F5792A?style=for-the-badge&logo=blender&logoColor=white)  
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Yuuta-nx)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/yuuta_nx_69)
+
+</div>
 
 ---
 
-## 📊 GitHub Stats  
-![Yuuta's GitHub stats](https://github-readme-stats.vercel.app/api?username=Yuuta-nx&show_icons=true&theme=tokyonight)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Yuuta-nx&layout=compact&theme=tokyonight)  
+## 🧑‍💻 About Me
+
+```python
+class Yuuta:
+    def __init__(self):
+        self.name = "Yuuta"
+        self.role = "CSE - AI & ML Student"
+        self.interests = [
+            "Artificial Intelligence",
+            "Software Development",
+            "3D Modeling & Animation",
+            "Music & Guitar",
+            "Gaming & Anime"
+        ]
+        self.current_goal = "Build something extraordinary."
+
+    def motto(self):
+        return "Dream. Create. Experiment. Repeat."
+```
+
+- 🧠 Exploring the world of **Artificial Intelligence & Machine Learning**.
+- 💻 Interested in building intelligent applications and creative projects.
+- 🎸 Guitarist who finds inspiration in music.
+- 🎮 Gamer and anime enthusiast.
+- 🌏 Dreaming big, learning continuously, and aiming for Japan.
 
 ---
 
-## 🎵 Music & Passion  
-🎸 *Guitarist • Music Lover • Creator*  
-✨ Where **chords meet code**.  
-📷 Instagram: [**@yuuta_nx_69**](https://instagram.com/yuuta_nx_69)  
+## ⚡ Tech Stack & Arsenal
 
-![Guitar GIF](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExY3A5b21scHNnZjVvNnM2a3o0eG9mcTMwdXE1eWJmbmhzazh0bGxhbiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/kEoOGc8MBjLwWecvPS/giphy.gif)  
+### Languages
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![C](https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+
+### Creative Tools
+![Blender](https://img.shields.io/badge/Blender-E87D0D?style=flat-square&logo=blender&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 
 ---
 
-## 🌌 Fun Facts  
-- 💡 Wanna shine in **both music and computer science**.  
-- 🎮 Gamer mode: always ON.  
-- 📚 Learning every day, growing every day.  
+## 🚀 Currently Exploring
+
+| Field | Focus |
+|:---|:---|
+| 🤖 AI & ML | Understanding intelligent systems |
+| 🐍 Python | Programming and automation |
+| 🌐 Web Development | HTML and creative web experiences |
+| 🗄️ Databases | MySQL and data management |
+| 🎨 3D Creation | Blender, modeling and animation |
+| 🧩 Programming | C and problem-solving |
 
 ---
 
-![Footer Banner](https://i.imgur.com/YC9v1Nq.gif)  
-<!-- Replace above with any anime/gamer footer GIF -->
+## 📊 GitHub Statistics
+
+<div align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=Yuuta-nx&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yuuta-nx&layout=compact&theme=tokyonight&hide_border=true" />
+
+<br/>
+
+<img src="https://streak-stats.demolab.com?user=Yuuta-nx&theme=tokyonight&hide_border=true" />
+
+</div>
+
+---
+
+## 🎸 Beyond The Code
+
+<div align="center">
+
+### `Where chords meet code.`
+
+<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExY3A5b21scHNnZjVvNnM2a3o0eG9mcTMwdXE1eWJmbmhzazh0bGxhbiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/kEoOGc8MBjLwWecvPS/giphy.gif" width="280" />
+
+**Guitarist · Music Lover · Creator**
+
+Music keeps the creativity alive when the code gets complicated.
+
+</div>
+
+---
+
+## 🌌 A Little More About Me
+
+- 🎯 Big dream: Become a skilled AI/ML developer.
+- 🇯🇵 Future destination: Japan.
+- 🎮 Favorite escape: Gaming.
+- 🎵 Creative outlet: Guitar and music.
+- 🧠 Philosophy: Never stop being curious.
+
+---
+
+<div align="center">
+
+### 「夢は終わらない。」
+
+*The dream never ends.*
+
+<img src="https://i.imgur.com/YC9v1Nq.gif" width="100%" />
+
+**Thanks for visiting my profile!**
+
+![Profile Views](https://komarev.com/ghpvc/?username=Yuuta-nx&color=blueviolet&style=flat-square&label=PROFILE+VIEWS)
+
+</div>
